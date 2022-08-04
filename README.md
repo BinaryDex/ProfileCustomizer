@@ -10,6 +10,7 @@ Profile Badges allow you to show people viewing your profile what programs you u
 ![Profile Badges Example](Screenshots/badges_example.png)
 
 ### How Do I Use Profile Badges?
+Profile Badges Can Be Customized With Custom Icons, Colors, & Text.
 
 ## Animated Text
 
@@ -18,6 +19,10 @@ Profile Badges allow you to show people viewing your profile what programs you u
 ## Media Buttons
 
 ## To Do
-- [ ] Finish Writing README.md
+- [ ] Finish Profile Trophies
+- [ ] Finish Profile Badges
+- [ ] Finish Animated Text
+- [ ] Finish Profile Stats
+- [ ] Finish Media Buttons
 - [ ] Add Files
 - [ ] Add Screenshot Previews
