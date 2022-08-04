@@ -9,6 +9,8 @@ Profile Badges allow you to show people viewing your profile what programs you u
 *Example of Profile Badges:*
 ![Profile Badges Example](Screenshots/badges_example.png)
 
+# How Do I Use Profile Badges?
+
 ## Animated Text
 
 ## Profile Stats
