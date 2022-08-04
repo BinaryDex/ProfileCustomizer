@@ -4,7 +4,7 @@ Looking for a way to add cool badges, text &amp; images to your profile? If so r
 ## Profile Trophies
 
 ## Profile Badges
-![Profile Badges Example](/screenshots/badges_example.svg)
+![Profile Badges Example](Screenshots/badges_example.svg)
 
 ## Animated Text
 
