@@ -7,7 +7,7 @@ Looking for a way to add cool badges, text &amp; images to your profile? If so r
 Profile Extra Pins allows you to pin more than 6 repositories on your GitHub Profile!
 
 *Example of Extra Pins:*
-![Extra Pins Example](Examples/extra_pins_example.png)
+
 
 ### How Do I Use Extra Pins?
 In the text below you will find a part where it says `?username=BinaryDex` replace 'BinaryDex' with your GitHub username. Next, find the part where it says `&repo=ProfileCustomizer` replace 'ProfileCustomizer' with your github repo name you want to pin. (Also make sure to change the username and repo name at the end of the text too!)
@@ -16,7 +16,7 @@ In the text below you will find a part where it says `?username=BinaryDex` repla
 [![Extra Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=BinaryDex&repo=ProfileCustomizer)](https://github.com/BinaryDex/ProfileCustomizer)
 ```
 
-[![Extra Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=BinaryDex&repo=ProfileCustomizer)](https://github.com/BinaryDex/ProfileCustomizer)
+[![Extra Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=BinaryDex&repo=ProfileCustomizer)](https://github.com/BinaryDex/ProfileCustomizer?show_owner=true)
 
 ## Profile Badges
 Profile Badges allow you to show people viewing your profile what programs you use, languages you know, profile views & more!
