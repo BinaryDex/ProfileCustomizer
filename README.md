@@ -31,7 +31,7 @@ Profile Trophies have several different themes you can change by going inside th
 <details>
 <summary>List of Themes</summary>
 <br>
-text here
+flat, onedark, gruvbox, dracula, monokai, chalk, nord, alduin, darkhub, juicyfresh, buddhism, oldie, radical, onestar, discord, algolia, gitdimmed, tokyonight, matrix, apprentice, dark_dimmed, dark_lover
 </details>
 </details>
 
