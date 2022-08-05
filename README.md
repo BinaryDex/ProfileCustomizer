@@ -27,15 +27,13 @@ GitHub Profile Trophies can be utilized by taking the text below, finding the pa
 <details>
 <summary>Themes</summary>
 <br>
-Profile Trophies have several different themes you can change by going inside the text example above then finding the text `&theme=onedark` chaneg 'onedark' to your desired theme. You can find all the themes below. (To change to light mode simply delete the park where it says `&theme=onedark`
-
+Profile Trophies have several different themes you can change by going inside the text example above then finding the text <code>&theme=onedark</code> change 'onedark' to your desired theme. You can find all the themes below. (To change to light mode simply delete the park where it says <code>`&theme=onedark`</code>.
 <details>
 <summary>List of Themes</summary>
 <br>
 text here
 </details>
 </details>
-
 
 ## Extra Pins
 Profile Extra Pins allows you to pin more than 6 repositories on your GitHub Profile!
