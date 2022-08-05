@@ -7,9 +7,10 @@ Looking for a way to add cool badges, text &amp; images to your profile? If so r
 Profile Trophies allows you to show off achievements and accomplishments like commits, stars & more on your GitHub Profile!
 
 *Example of Profile Trophies:*
-![Github Profile Trophies](https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=onedark)
+> ![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=onedark)
 
 ### How Do I Use Profile Trophies?
+GitHub Profile Trophies can be utilized by taking the text below, finding the part whre it says `?username=BinaryDex` and replacing 'BinaryDex' with your GitHub username! You can also change the trophy card from dark mode to light mode by going in the text, looking for `&theme=onedark` and deleting it. There is also a TON of customization for the trophies which you can learn about [here](https://github.com/ryo-ma/github-profile-trophy)!
 
 ## Extra Pins
 Profile Extra Pins allows you to pin more than 6 repositories on your GitHub Profile!
@@ -49,7 +50,7 @@ Animated Text can be used in both Markdown and HTML. You can use [this](https://
 
 ## To Do
 - [ ] Finish Fast Travel
-- [ ] Finish Profile Trophies
+- [x] Finish Profile Trophies
 - [x] Finish Profile Extra Pins
 - [ ] Finish Profile Badges
 - [x] Finish Animated Text
