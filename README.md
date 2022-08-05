@@ -1,7 +1,15 @@
 # ✨ Profile Customizer
-Looking for a way to add cool badges, text &amp; images to your profile? If so read this repository!
+Looking for a way to add cool badges, text &amp; images & more to your github profile? If so read this repository!
 
 ### Fast Travel
+
+- [Profile Trophies](#github-stats-card)
+- [Extra Pins](#github-extra-pins)
+- [Profile Badges](#top-languages-card)
+- [Animated Text](#wakatime-week-stats)
+- [Media Buttons](#themes)
+- [Credits](#customization)
+- [To Do](#deploy-on-your-own-vercel-instance)
 
 ## Profile Trophies
 Profile Trophies allows you to show off achievements and accomplishments like commits, stars & more on your GitHub Profile!
@@ -42,8 +50,6 @@ Animated Text is a text typing animation that allows you to display text on your
 ### How Do I Use Animated Text?
 Animated Text can be used in both Markdown and HTML. You can use [this](https://readme-typing-svg.herokuapp.com) webiste to generate your own text including colors, speed & more!
 
-## Profile Stats
-
 ## Media Buttons
 
 ## Credits
@@ -55,5 +61,4 @@ Animated Text can be used in both Markdown and HTML. You can use [this](https://
 - [ ] Finish Profile Badges
 - [x] Finish Animated Text
 - [ ] Finish Profile Stats
-- [ ] Finish Media Buttons
-- [ ] Finish Credits
+=- [ ] Finish Credits
