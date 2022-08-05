@@ -28,8 +28,8 @@ Animated Text can be used in both Markdown and HTML. You can use [this](https://
 ## To Do
 - [ ] Finish Profile Trophies
 - [ ] Finish Profile Badges
-- [ ] Finish Animated Text
+- [x] Finish Animated Text
 - [ ] Finish Profile Stats
 - [ ] Finish Media Buttons
 - [ ] Add Files
-- [ ] Add Screenshot Previews
+- [x] Add Screenshot Previews
