@@ -3,13 +3,13 @@ Looking for a way to add cool badges, text &amp; images & more to your github pr
 
 ### Fast Travel
 
-- [Profile Trophies](#github-stats-card)
-- [Extra Pins](#github-extra-pins)
-- [Profile Badges](#top-languages-card)
-- [Animated Text](#wakatime-week-stats)
-- [Media Buttons](#themes)
-- [Credits](#customization)
-- [To Do](#deploy-on-your-own-vercel-instance)
+- [Profile Trophies](#profile-trophies)
+- [Extra Pins](#extra-pins)
+- [Profile Badges](#profile-badges)
+- [Animated Text](#animated-text)
+- [Media Buttons](#media-buttons)
+- [Credits](#credits)
+- [To Do](#to-do)
 
 ## Profile Trophies
 Profile Trophies allows you to show off achievements and accomplishments like commits, stars & more on your GitHub Profile!
