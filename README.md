@@ -55,6 +55,33 @@ You can also display multiple titles at a time. If you go into the code below yo
 > ![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=onedark&title=Stars,Followers)
 </details>
 
+<details>
+<summary>Filter by Rank</summary>
+<br>
+Filtering by a rank is very similar to Filtering by a title. It allows you to only display trophies that are a certain rank. You can use it by going inside the text example below and changing the part where it says <code>&rank=AA</code> and replacing 'AA' with your specified rank (all can be found in the dropdown below)
+ 
+<details>
+<summary>List of all Ranks</summary>
+<br>
+SECRET SSS SS S AAA AA A B C
+</details>
+
+```md
+![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=onedark&rank=AA)
+```
+*Example of above code:*
+> ![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=onedark&rank=AA)
+
+You can also display multiple ranks at a time like the titles. You can do this by going into the code example below and find ing where it says <code>&rank=AA,A</code> and replacing either of them. You can add more by adding a ',' after the last one and typing another rank.
+
+```md
+![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=onedark&rank=AA,A)
+```
+*Example of above code:*
+> ![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=onedark&rank=AA,A)
+
+</details>
+
 ## Extra Pins
 Profile Extra Pins allows you to pin more than 6 repositories on your GitHub Profile!
 
