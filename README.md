@@ -1,7 +1,8 @@
-< ! ╌ begin pc ╌>
+<!--- BEGIN PROFILE CUSTOMIZER -->
 # ✨ Profile Customizer
 Looking for a way to add cool badges, text &amp; images & more to your GitHub profile? If so read this repository!
 
+<!--- FAST TRAVEL -->
 ### Fast Travel
 - [Profile Trophies](#profile-trophies)
 - [Extra Pins](#extra-pins)
@@ -11,6 +12,7 @@ Looking for a way to add cool badges, text &amp; images & more to your GitHub pr
 - [Credits](#credits)
 - [To Do](#to-do)
 
+<!--- PROFILE TROPHIES -->
 ## Profile Trophies
 Profile Trophies allows you to show off achievements and accomplishments like commits, stars & more on your GitHub Profile!
 
@@ -24,7 +26,9 @@ GitHub Profile Trophies can be utilized by taking the text below, finding the pa
 ![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=onedark)
 ```
 
+<!--- PROFILE TROPHY CUSTOMIZATION -->
 ### Profile Trophy Customization
+<!--- PROFILE TROPHY THEMES -->
 <details>
 <summary>Themes</summary>
 <br>
@@ -36,6 +40,7 @@ flat, onedark, gruvbox, dracula, monokai, chalk, nord, alduin, darkhub, juicyfre
 </details>
 </details>
 
+<!--- PROFILE TROPHY FILTER BY TITLE -->
 <details>  
 <summary>Filter by Title</summary>
 <br>
@@ -56,6 +61,7 @@ You can also display multiple titles at a time. If you go into the code below yo
 > ![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=onedark&title=Stars,Followers)
 </details>
 
+<!--- PROFILE TROPHY FILTER BY RANK -->
 <details>
 <summary>Filter by Rank</summary>
 <br>
@@ -82,6 +88,7 @@ You can also display multiple ranks at a time like the titles. You can do this b
 
 </details>
 
+<!--- EXTRA PINS -->
 ## Extra Pins
 Profile Extra Pins allows you to pin more than 6 repositories on your GitHub Profile!
 
