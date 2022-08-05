@@ -5,6 +5,8 @@ Looking for a way to add cool badges, text &amp; images & more to your GitHub pr
 <!--- FAST TRAVEL -->
 ### Fast Travel
 - [Profile Trophies](#profile-trophies)
+  - [How to Use](#how-do-i-use-profile-trophies?)
+  - [Customization](#profile-trophy-customization)
 - [Extra Pins](#extra-pins)
 - [Profile Badges](#profile-badges)
 - [Animated Text](#animated-text)
