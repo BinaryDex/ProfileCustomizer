@@ -2,7 +2,6 @@
 Looking for a way to add cool badges, text &amp; images & more to your github profile? If so read this repository!
 
 ### Fast Travel
-
 - [Profile Trophies](#profile-trophies)
 - [Extra Pins](#extra-pins)
 - [Profile Badges](#profile-badges)
