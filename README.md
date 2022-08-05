@@ -54,10 +54,9 @@ Animated Text can be used in both Markdown and HTML. You can use [this](https://
 ## Credits
 
 ## To Do
-- [ ] Finish Fast Travel
+- [x] Finish Fast Travel
 - [x] Finish Profile Trophies
 - [x] Finish Profile Extra Pins
 - [ ] Finish Profile Badges
 - [x] Finish Animated Text
-- [ ] Finish Profile Stats
-=- [ ] Finish Credits
+- [ ] Finish Credits
