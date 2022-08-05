@@ -67,18 +67,18 @@ SECRET SSS SS S AAA AA A B C
 </details>
 
 ```md
-![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=onedark&rank=AA)
+![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=onedark&rank=AAA)
 ```
 *Example of above code:*
-> ![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=onedark&rank=AA)
+> ![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=onedark&rank=AAA)
 
 You can also display multiple ranks at a time like the titles. You can do this by going into the code example below and find ing where it says <code>&rank=AA,A</code> and replacing either of them. You can add more by adding a ',' after the last one and typing another rank.
 
 ```md
-![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=onedark&rank=AA,A)
+![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=onedark&rank=AAA,A)
 ```
 *Example of above code:*
-> ![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=onedark&rank=AA,A)
+> ![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=onedark&rank=AAA,A)
 
 </details>
 
@@ -117,9 +117,10 @@ Animated Text can be used in both Markdown and HTML. You can use [this](https://
 ## Credits
 
 ## To Do
-- [x] Finish Fast Travel
+- [ ] Finish Fast Travel
 - [ ] Finish Profile Trophies
 - [ ] Finish Profile Extra Pins
 - [ ] Finish Profile Badges
 - [ ] Finish Animated Text
 - [ ] Finish Credits
+- [ ] Add More Customization Options
