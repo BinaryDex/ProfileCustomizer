@@ -1,5 +1,5 @@
 # ✨ Profile Customizer
-Looking for a way to add cool badges, text &amp; images & more to your github profile? If so read this repository!
+Looking for a way to add cool badges, text &amp; images & more to your GitHub profile? If so read this repository!
 
 ### Fast Travel
 - [Profile Trophies](#profile-trophies)
