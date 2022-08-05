@@ -14,7 +14,7 @@ Looking for a way to add cool badges, text &amp; images & more to your GitHub pr
 Profile Trophies allows you to show off achievements and accomplishments like commits, stars & more on your GitHub Profile!
 
 *Example of Profile Trophies:*
-> ![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=onedark)
+> ![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=discord)
 
 ### How Do I Use Profile Trophies?
 GitHub Profile Trophies can be utilized by taking the text below, finding the part whre it says `?username=BinaryDex` and replacing 'BinaryDex' with your GitHub username!
