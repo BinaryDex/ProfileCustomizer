@@ -3,6 +3,21 @@ Looking for a way to add cool badges, text &amp; images to your profile? If so r
 
 ## Profile Trophies
 
+## Extra Pins
+Profile Extra Pins allows you to pin more than 6 repositories on your GitHub Profile!
+
+*Example of Extra Pins:*
+![Extra Pins Example](Examples/extra_pins_example.png)
+
+### How Do I Use Extra Pins?
+In the text below you will find a part where it says `?username=BinaryDex` replace 'BinaryDex' with your GitHub username. Next, find the part where it says `&repo=ProfileCustomizer` replace 'ProfileCustomizer' with your github repo name you want to pin. (Also make sure to change the username and repo name at the end of the text too!)
+
+```md
+[![Extra Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=BinaryDex&repo=ProfileCustomizer)](https://github.com/BinaryDex/ProfileCustomizer)
+```
+
+[![Extra Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=BinaryDex&repo=ProfileCustomizer)](https://github.com/BinaryDex/ProfileCustomizer)
+
 ## Profile Badges
 Profile Badges allow you to show people viewing your profile what programs you use, languages you know, profile views & more!
 
@@ -25,11 +40,15 @@ Animated Text can be used in both Markdown and HTML. You can use [this](https://
 
 ## Media Buttons
 
+## Credits
+
 ## To Do
 - [ ] Finish Profile Trophies
+- [ ] Finish Profile Extra Pins
 - [ ] Finish Profile Badges
 - [x] Finish Animated Text
 - [ ] Finish Profile Stats
 - [ ] Finish Media Buttons
+- [ ] Finish Credits
 - [ ] Add Files
-- [x] Add Screenshot Previews
+- [ ] Add Screenshot Previews
