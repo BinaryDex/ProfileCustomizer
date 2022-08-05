@@ -4,6 +4,12 @@ Looking for a way to add cool badges, text &amp; images to your profile? If so r
 ### Fast Travel
 
 ## Profile Trophies
+Profile Trophies allows you to show off achievements and accomplishments like commits, stars & more on your GitHub Profile!
+
+*Example of Profile Trophies:*
+![Github Profile Trophies](https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=onedark)
+
+### How Do I Use Profile Trophies?
 
 ## Extra Pins
 Profile Extra Pins allows you to pin more than 6 repositories on your GitHub Profile!
@@ -22,7 +28,6 @@ In the text below you will find a part where it says `?username=BinaryDex` repla
 Profile Badges allow you to show people viewing your profile what programs you use, languages you know, profile views & more!
 
 *Example of Profile Badges:*
-![Profile Badges Example](Examples/badges_example.png)
 
 ### How Do I Use Profile Badges?
 Profile Badges Can Be Customized With Custom Icons, Colors, & Text.
