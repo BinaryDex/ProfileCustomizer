@@ -19,7 +19,7 @@ Animated Text is a text typing animation that allows you to display text on your
 > [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72272&lines=This+is+a+Line!;Hello+World!)](https://git.io/typing-svg)
 
 ### How Do I Use Animated Text?
-Animated Text can be used in both Markdown and HTML. You can use [this]([https://www.example.com](https://readme-typing-svg.herokuapp.com)) webiste to generate your own text including colors, speed & more!
+Animated Text can be used in both Markdown and HTML. You can use [this](https://readme-typing-svg.herokuapp.com) webiste to generate your own text including colors, speed & more!
 
 ## Profile Stats
 
