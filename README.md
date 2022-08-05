@@ -35,6 +35,16 @@ flat, onedark, gruvbox, dracula, monokai, chalk, nord, alduin, darkhub, juicyfre
 </details>
 </details>
 
+<details>  
+<summary>Filter by Title</summary>
+<br>
+Filtering by a title allows you to only display certain trophies. You can use it by going inside the text example and 
+
+```md
+test
+```
+</details>
+
 ## Extra Pins
 Profile Extra Pins allows you to pin more than 6 repositories on your GitHub Profile!
 
