@@ -19,10 +19,10 @@ Profile Extra Pins allows you to pin more than 6 repositories on your GitHub Pro
 > [![Extra Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=BinaryDex&repo=ProfileCustomizer&show_owner=true&theme=onedark)](https://github.com/BinaryDex/ProfileCustomizer)
 
 ### How Do I Use Extra Pins?
-In the text below you will find a part where it says `?username=BinaryDex` replace 'BinaryDex' with your GitHub username. Next, find the part where it says `&repo=ProfileCustomizer` replace 'ProfileCustomizer' with your github repo name you want to pin. Also make sure to change the username and repo name at the end of the text too! Finally, at the near the end you will see `&show_owner=true` you can change it to 'false' if you don't want the card to show the repo owner's name or 'true' if you do. You can also change the theme of the card by changing the `&theme=onedark` value in the text! Learn about more customization and themes (here)[https://github.com/anuraghazra/github-readme-stats#customization]!
+In the text below you will find a part where it says `?username=BinaryDex` replace 'BinaryDex' with your GitHub username. Next, find the part where it says `&repo=ProfileCustomizer` replace 'ProfileCustomizer' with your github repo name you want to pin. Also make sure to change the username and repo name at the end of the text too! Finally, at the near the end you will see `&show_owner=true` you can change it to 'false' if you don't want the card to show the repo owner's name or 'true' if you do. You can also change the theme of the card by changing the `&theme=onedark` value in the text! Learn about more customization and themes [here](https://github.com/anuraghazra/github-readme-stats#customization)!
 
 ```md
-[![Extra Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=BinaryDex&repo=ProfileCustomizer)](https://github.com/BinaryDex/ProfileCustomizer)
+[![Extra Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=BinaryDex&repo=ProfileCustomizer&show_owner=true&theme=onedark)](https://github.com/BinaryDex/ProfileCustomizer)
 ```
 
 ## Profile Badges
