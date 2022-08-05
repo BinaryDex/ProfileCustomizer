@@ -41,18 +41,18 @@ flat, onedark, gruvbox, dracula, monokai, chalk, nord, alduin, darkhub, juicyfre
 Filtering by a title allows you to only display certain trophies. You can use it by going inside the text example below and changing the part where it says <code>&title=Stars</code> and replacing 'Stars' with your specified title (all can be found in the example at the beginning of Profile Trophies)
 
 ```md
-![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=onedark%title=Stars)
+![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=onedark&title=Stars)
 ```
 *Example of above code:*
-> ![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=onedark%title=Stars)
+> ![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=onedark&title=Stars)
 
 You can also display multiple titles at a time. If you go into the code below you can find where it says <code>&title=Stars,Followers</code> and replacing either of them. You can add more by adding a ',' after the last one and typing another title.
 
 ```md
-![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=onedark%title=Stars,Followers)
+![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=onedark&title=Stars,Followers)
 ```
 *Example of above code:*
-> ![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=onedark%title=Stars,Followers)
+> ![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=BinaryDex&theme=onedark&title=Stars,Followers)
 </details>
 
 ## Extra Pins
