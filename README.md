@@ -2,12 +2,11 @@
 # ✨ Profile Customizer
 Looking for a way to add cool badges, text &amp; images & more to your GitHub profile? If so read this repository!
 
-![GitHub issues](https://img.shields.io/github/issues/BinaryDex/DexHub?logo=github&style=flat) 
-![GitHub pull requests](https://img.shields.io/github/issues-pr/BinaryDex/DexHub?label=Pull%20requests&logo=github&style=flat) 
-![GitHub](https://img.shields.io/github/license/BinaryDex/DexHubWeb?label=Licence&logo=github&style=flat) 
-![GitHub forks](https://img.shields.io/github/forks/BinaryDex/DexHub?label=Forks&logo=github&style=flat) 
-![GitHub Repo stars](https://img.shields.io/github/stars/BinaryDex/DexHub?color=yellow&label=Stars&logo=github&style=flat) 
-![GitHub repo size](https://img.shields.io/github/repo-size/BinaryDex/DexHub?label=Repo%20size&logo=github&style=flat)
+![GitHub Issues](https://img.shields.io/github/issues/BinaryDex/ProfileCustomizer?logo=github&style=flat) 
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/BinaryDex/ProfileCustomizer?label=Pull%20requests&logo=github&style=flat) 
+![GitHub Forks](https://img.shields.io/github/forks/BinaryDex/ProfileCustomizer?label=Forks&logo=github&style=flat) 
+![GitHub Repo Stars](https://img.shields.io/github/stars/BinaryDex/ProfileCustomizer?color=yellow&label=Stars&logo=github&style=flat) 
+![GitHub Repo Size](https://img.shields.io/github/repo-size/BinaryDex/ProfileCustomizer?label=Repo%20size&logo=github&style=flat)
 
 <!--- FAST TRAVEL -->
 ### Fast Travel
